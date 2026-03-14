@@ -61,7 +61,7 @@ export default function HowItWorks() {
         />
 
       </div>
-      <a href="https://wa.me/27704328623" target="_blank" className="whatsapp-container">
+      <a href="https://wa.me/27630254641 " target="_blank" className="whatsapp-container">
         <p>Whatsapp us now to join</p>
         <img src={whatsapp} alt="WhatsApp" className='whatsapp'/>
       </a>
